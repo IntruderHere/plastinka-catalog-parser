@@ -1,0 +1,9 @@
+# результаты обхода — не публикуем
+catalog.jsonl
+catalog.errors
+Каталог_винила_Plastinka_*.xlsx
+Каталог_винила_Plastinka_*.csv
+venv/
+__pycache__/
+*.pyc
+.DS_Store
